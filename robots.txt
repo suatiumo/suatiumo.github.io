@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suatiumo.github.io/sitemap
+Sitemap: https://suatiumo.github.io/app/sitemap
+Sitemap: https://suatiumo.github.io/assets/sitemap
+Sitemap: https://suatiumo.github.io/css/sitemap
+Sitemap: https://suatiumo.github.io/includes/sitemap
+Sitemap: https://suatiumo.github.io/item/sitemap
+Sitemap: https://suatiumo.github.io/src/sitemap
